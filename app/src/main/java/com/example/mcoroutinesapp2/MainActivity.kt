@@ -10,8 +10,7 @@ import kotlinx.coroutines.*
 import kotlinx.coroutines.Dispatchers.IO
 import kotlinx.coroutines.Dispatchers.Main
 import org.json.JSONObject
-import org.json.JSONArray
-import org.json.JSONException
+
 
 class MainActivity : AppCompatActivity() {
 
